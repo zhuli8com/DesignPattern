@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ZLViewController.h
 //  DesignPattern
 //
 //  Created by account on 15/9/10.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ZLViewController : UIViewController
 
 @end
-
